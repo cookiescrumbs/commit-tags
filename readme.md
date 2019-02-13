@@ -11,11 +11,11 @@ $ npm install @cookiescrumbs/commit-tags
 ## Usage
 
 ```bash
-ct
+$ ct
 ```
 
 ```bash
-commit-tags
+$ commit-tags
 ```
 
 ```
