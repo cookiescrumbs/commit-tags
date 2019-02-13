@@ -1,0 +1,15 @@
+{
+  "name": "@cookiescrumbs/commit-tags",
+  "version": "1.0.0",
+  "description": "A helper for tagging commits",
+  "scripts": {},
+  "author": "Steven Cook",
+  "license": "ISC",
+  "bin": {
+    "ct": "./cli.js",
+    "commit-tags": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
