@@ -1,6 +1,6 @@
 {
   "name": "@cookiescrumbs/commit-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper for tagging commits",
   "scripts": {},
   "author": "Steven Cook",
