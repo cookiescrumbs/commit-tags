@@ -27,7 +27,7 @@ log(chalk`
     **student**
     **design system**
     **lesson item renderer**
-    **core**
+    **chore**
     **util**
     **styles**
     **state**
