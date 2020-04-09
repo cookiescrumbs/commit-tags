@@ -13,6 +13,7 @@ log(chalk`
     {white **build**: Changes that affect the build system or external dependencies (example scopes: teacher, student, accounts)
     **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
     **docs**: Documentation only changes
+    **change**: This is a change
     **feat**: A new feature
     **fix**: A bug fix
     **perf**: A code change that improves performance
